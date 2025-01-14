@@ -1,0 +1,14 @@
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\Taschenrechner\bin\Debug\net7.0\Taschenrechner.exe
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\Taschenrechner\bin\Debug\net7.0\Taschenrechner.deps.json
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\Taschenrechner\bin\Debug\net7.0\Taschenrechner.runtimeconfig.json
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\Taschenrechner\bin\Debug\net7.0\Taschenrechner.dll
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\Taschenrechner\bin\Debug\net7.0\Taschenrechner.pdb
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\Taschenrechner\obj\Debug\net7.0\Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\Taschenrechner\obj\Debug\net7.0\Taschenrechner.AssemblyInfoInputs.cache
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\Taschenrechner\obj\Debug\net7.0\Taschenrechner.AssemblyInfo.cs
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\Taschenrechner\obj\Debug\net7.0\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\Taschenrechner\obj\Debug\net7.0\Taschenrechner.dll
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\Taschenrechner\obj\Debug\net7.0\refint\Taschenrechner.dll
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\Taschenrechner\obj\Debug\net7.0\Taschenrechner.pdb
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\Taschenrechner\obj\Debug\net7.0\Taschenrechner.genruntimeconfig.cache
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\Taschenrechner\obj\Debug\net7.0\ref\Taschenrechner.dll
